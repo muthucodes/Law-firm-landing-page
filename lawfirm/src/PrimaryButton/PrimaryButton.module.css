@@ -1,0 +1,12 @@
+.btnPrimary {
+  background-color: var(--yellow);
+  color: var(--black);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  border-radius: 43px;
+  border: none;
+  padding: 18px 32px;
+}
