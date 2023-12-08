@@ -61,6 +61,7 @@
   letter-spacing: 0em;
   text-align: center;
   margin-left: 24px;
+  color: var(--white);
 }
 
 .input::placeholder {
